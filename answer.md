@@ -1,8 +1,30 @@
 ## 開発した作品について
-- [デプロイURL](ここにデプロイ先のURLを記入してください)
+- [&#x01A4;ort &#x01A4;hoto&#x014B;](https://portphoton.herokuapp.com/)
 
 ## 選択したオリジナル実装機能
-※ここに、選択したオリジナル実装機能について記載してください。
++ [必須]クライアントサイドの実装
++ [選択]タグ機能
 
 ## その他、アピールポイント
-※その他に工夫した点がございましたら、Reviewerに向けて自由にアピールしましょう。
+### 特徴
++ ページ遷移をなくし、Minimumな作りにしました(時間の関係で…)。
++ ライブラリの機能を極力使い、自作の実装部分を減らしました。
++ MVVMにてクライアントを実装しました。
+
+### 使用したもの
++ (Node.js, Heroku)
++ TypeScript
++ Node.js Tools for Visual Studio
++ Circle CI
++ Bootstrap 4(alpha2)
++ Vue.js
++ jQuery(Bootstrapとajaxだけ)
++ Google Fonts
++ 
+
+### SS
+![](https://raw.githubusercontent.com/occar421/codecheck-original/master/main.png)
+![](https://raw.githubusercontent.com/occar421/codecheck-original/master/detail.png)
+![](https://raw.githubusercontent.com/occar421/codecheck-original/master/edit_tag.png)
+![](https://raw.githubusercontent.com/occar421/codecheck-original/master/tags.png)
+![](https://raw.githubusercontent.com/occar421/codecheck-original/master/add.png)
