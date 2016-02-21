@@ -20,11 +20,19 @@
 + Vue.js
 + jQuery(Bootstrapとajaxだけ)
 + Google Fonts
-+ 
 
 ### SS
+#### メイン
 ![](https://raw.githubusercontent.com/occar421/codecheck-original/master/main.png)
+
+#### 詳細
 ![](https://raw.githubusercontent.com/occar421/codecheck-original/master/detail.png)
+
+#### タグの編集
 ![](https://raw.githubusercontent.com/occar421/codecheck-original/master/edit_tag.png)
+
+#### タグの一覧とフィルタリング機能
 ![](https://raw.githubusercontent.com/occar421/codecheck-original/master/tags.png)
+
+#### 作品の追加
 ![](https://raw.githubusercontent.com/occar421/codecheck-original/master/add.png)
